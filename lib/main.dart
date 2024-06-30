@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       home: const MyHomePage(
-        title: 'Learnapp',
+        title: 'Learn app for you',
       ),
     );
   }
