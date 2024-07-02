@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       home: const MyHomePage(
-        title: 'LearnAppForYou JGJG ',
+        title: 'LearnAppForYou JGJGJGJG ',
       ),
     );
   }
@@ -63,7 +63,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: _incrementCounter,
-        child: const Icon(Icons.ac_unit),
+        child: const Icon(Icons.add_circle_outline),
       ),
     );
   }
