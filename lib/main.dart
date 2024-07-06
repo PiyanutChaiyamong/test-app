@@ -11,18 +11,18 @@ void main() {
           children: [
             Container(
               decoration:
-                  const BoxDecoration(color: Color.fromARGB(255, 128, 238, 18)),
+                  const BoxDecoration(color: Color.fromARGB(212, 237, 11, 11)),
               height: 100, //กำหนดความสูง
             ),
             Container(
               decoration:
-                  const BoxDecoration(color: Color.fromARGB(242, 206, 225, 36)),
-              height: 580, //กำหนดความสูง
+                  const BoxDecoration(color: Color.fromARGB(255, 255, 255, 255)),
+              height: 630, //กำหนดความสูง
             ),
             Container(
               decoration:
                   const BoxDecoration(color: Color.fromARGB(255, 35, 150, 156)),
-              height: 100, //กำหนดความสูง
+              height: 50, //กำหนดความสูง
             )
           ],
         )),
